@@ -1,0 +1,11 @@
+.dailyListing-wrapper{
+    background-color: #854442;
+    min-width: 400px;
+    min-height: 450px;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top:10px;
+    box-shadow: 3px 6px 10px #000;
+}

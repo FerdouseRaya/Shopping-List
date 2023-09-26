@@ -1,0 +1,19 @@
+.shopping-container {
+  background-color: #3c2f2f;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shopping-wrapper {
+  background-color: #be9b7b;
+  min-width: 400px;
+  min-height: 450px;
+  padding: 30px;
+  box-sizing: border-box;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  box-shadow: 3px 6px 10px #000;
+}
